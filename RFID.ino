@@ -17,7 +17,7 @@ const char SSID[] = "SSID";      // replace with your WiFi SSID
 const char PASS[] = "PASS";  // replace with your WiFi password
 
 // Server configuration
-const char SERVER_IP[] = "IP";   // server IP (as requested)
+const char SERVER_IP[] = "IP";   // server IP
 const uint16_t SERVER_PORT = 80;           // HTTP port
 const char SERVER_PATH[] = "/rfid";        // endpoint path to POST to
 
