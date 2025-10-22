@@ -1,2 +1,2 @@
 # Fitted
-Someone else's senior design project
+Someone _else's_ senior design project
